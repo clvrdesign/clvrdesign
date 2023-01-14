@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Python, Nodejs,...
 - 📫 Reach me ...
 -    on WhatsApp: +257 79 993 587
--    on facebook: www.facebook.com/clvrdesigner/
+-    on facebook: www.facebook.com/clvrsnk/
 -    and on Instagram: https://www.instagram.com/clever_designer_official/
 
 <!---
