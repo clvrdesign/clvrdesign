@@ -1,5 +1,3 @@
-##Hi 👋 My name is Clever
-I design and develop services for clients specializing in the creation of stylish and modern websites, simple and creative graphic designs for advertising.* 🌍  I'm based in Bujumbura* 🖥️  See my portfolio at [Klevadev](http://www.klevadev.com)* ✉️  You can contact me at [klevadev@klevadev.com](mailto:klevadev@klevadev.com)* 🧠  I'm learning Kotlin
 
 ### Skills
 
