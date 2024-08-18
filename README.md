@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clever==============================================================================================================================Web Developer and Designer--------------------------I design and develop services for clients specializing in the creation of stylish and modern websites, simple and creative graphic designs for advertising.* 🌍  I'm based in Bujumbura* 🖥️  See my portfolio at [Klevadev](http://www.klevadev.com)* ✉️  You can contact me at [klevadev@klevadev.com](mailto:klevadev@klevadev.com)* 🧠  I'm learning Kotlin
+Hi 👋 My name is Clever
+=======================Web Developer and Designer--------------------------I design and develop services for clients specializing in the creation of stylish and modern websites, simple and creative graphic designs for advertising.* 🌍  I'm based in Bujumbura* 🖥️  See my portfolio at [Klevadev](http://www.klevadev.com)* ✉️  You can contact me at [klevadev@klevadev.com](mailto:klevadev@klevadev.com)* 🧠  I'm learning Kotlin
 
 ### Skills
 
